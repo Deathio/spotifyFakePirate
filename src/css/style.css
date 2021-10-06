@@ -1,0 +1,15 @@
+/* Corpo */
+body {
+    background: gray;
+}
+
+main{}
+.sidebarNav{}
+.sidebarNav > img{}
+
+.navegacao{}
+
+.listaLinks{}
+.listaLinks > li {}
+.listaLinks > li > a{}
+.listaLinks > li > a > img{}
